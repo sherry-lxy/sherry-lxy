@@ -3,7 +3,7 @@
 📷 I’m interested in camera <br>
 💻 I'm a graduate student learning computer science
 
-## ★ Status
+## ⭐️ Status
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherry-lxy&theme=monokai" width="700px">
 </div>
@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=tokyonight&show_icons=true" width="500px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=tokyonight&show_icons=true&layout=compact" width="300px">
 </div>
 
-## Languages and Tools
+## ⚙️Languages and Tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank">
 <!--- Python --->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank">
