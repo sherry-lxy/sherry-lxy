@@ -4,7 +4,9 @@
 💻 I'm a graduate student learning computer science
 
 ## ★ Status
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherry-lxy&theme=monokai)
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherry-lxy&theme=monokai" width="600px">
+</div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=tokyonight&show_icons=true" width="500px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=tokyonight&show_icons=true&layout=compact" width="300px">
 </div>
