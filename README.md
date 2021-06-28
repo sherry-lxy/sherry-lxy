@@ -44,8 +44,10 @@
 
 ## 📧 Connect with me
 <p align="left">
+<!--- Instegram --->
 <a href="https://instagram.com/sherry__xy20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherry__xy20" height="30" width="40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lixinyun1997" height="30" width="40" /></a>
+<!--- Twitter --->
+<a href="https://twitter.com/lixinyun1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lixinyun1997" height="30" width="40" /></a>
 </p>
 
 ## 🎵 Music
