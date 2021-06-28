@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=radical&show_icons=true" width="520px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=radical&show_icons=true" width="300px">
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=github-readme-stats)](https://github.com/sherry-lxy/indoor_localization)
 
 ## ⚙️Languages and Tools
 <p align="left">
