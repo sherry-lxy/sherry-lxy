@@ -4,6 +4,7 @@
 📷 I’m interested in camera
 
 ## ⭐️ Status
+![](https://komarev.com/ghpvc/?username=sherry-li&color=blueviolet)
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherry-lxy&theme=monokai" width="700px">
 </div>
