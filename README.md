@@ -40,6 +40,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank">
 </a> </p>
 
+## 📧 Connect with me
+<p align="left">
+<a href="https://instagram.com/sherry__xy20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherry__xy20" height="30" width="40" /></a>
+</p>
+
 ## 🎵 Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cbegx3aphjhf3b2fvvx57lhk54&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
