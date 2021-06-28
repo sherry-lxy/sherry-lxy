@@ -12,8 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=radical&show_icons=true" width="520px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=radical&show_icons=true" width="300px">
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherry-lxy&repo=indoor_lozalization)](https://github.com/sherry-lxy/indoor_localization)
-
 ## ⚙️Languages and Tools
 <p align="left">
 <!--- Python --->  
