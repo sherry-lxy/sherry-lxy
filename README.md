@@ -12,6 +12,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=radical&show_icons=true" width="520px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=radical&show_icons=true" width="300px">
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ⚙️Languages and Tools
 <p align="left">
 <!--- Python --->  
