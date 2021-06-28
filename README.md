@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sherry Li
+# 👋 Hi, I’m Sherry Li
+
 - 📷 I’m interested in camera
 - 💻 I'm a graduate student learning computer science
 
