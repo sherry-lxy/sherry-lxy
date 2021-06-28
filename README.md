@@ -38,8 +38,8 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <!--- PhotoShop --->  
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<!--- PhotoShop --->  
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://user-images.githubusercontent.com/52001212/123638765-7e25e100-d85a-11eb-83c3-68fdb7191200.png" alt="lightroom" width="40" height="40"/> </a> 
+<!--- LightRoom --->  
+<a href="https://www.adobe.com/jp/products/photoshop-lightroom.html" target="_blank"> <img src="https://user-images.githubusercontent.com/52001212/123638765-7e25e100-d85a-11eb-83c3-68fdb7191200.png" alt="lightroom" width="40" height="40"/> </a> 
 </p>
 
 ## 📧 Connect with me
