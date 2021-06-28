@@ -2,7 +2,7 @@
 - 📷 I’m interested in camera
 - 💻 I'm a graduate student learning computer science
 
-[![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherry-li&theme=vue-dark&show_icons=true)](https://github.com/sherry-lxy/github-readme-stats)
+[![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=vue-dark&show_icons=true)](https://github.com/sherry-lxy/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/sherry-lxy/github-readme-stats)
 
