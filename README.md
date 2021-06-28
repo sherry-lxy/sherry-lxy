@@ -1,11 +1,9 @@
 # <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi, I’m Sherry Li
 
-- 📷 I’m interested in camera
-- 💻 I'm a graduate student learning computer science
+📷 I’m interested in camera
+💻 I'm a graduate student learning computer science
 
-[![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=tokyonight&show_icons=true)](https://github.com/sherry-lxy/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/sherry-lxy/github-readme-stats)
+## ★ Status
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=tokyonight&show_icons=true" width="500px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=tokyonight&show_icons=true&layout=compact" width="300px">
