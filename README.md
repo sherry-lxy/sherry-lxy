@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=tokyonight&show_icons=true" width="500px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=tokyonight&show_icons=true&layout=compact" width="300px">
+<img src="https://github-readme-stats.vercel.app/api?username=sherry-lxy&theme=tokyonight&show_icons=true" width="500px">　　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherry-lxy&theme=tokyonight&show_icons=true" width="300px">
 </div>
 
 ## ⚙️Languages and Tools
