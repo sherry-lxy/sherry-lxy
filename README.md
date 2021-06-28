@@ -1,7 +1,7 @@
 # <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi, I’m Sherry Li
 
-📷 I’m interested in camera <br>
-💻 I'm a graduate student learning computer science
+💻 I'm a graduate student learning computer science <br>
+📷 I’m interested in camera
 
 ## ⭐️ Status
 <div align="center">
@@ -32,6 +32,9 @@
 <!--- postgreSQL --->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank">
 </a> </p>
+
+## 🎵 Music
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cbegx3aphjhf3b2fvvx57lhk54&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!---
 sherry-lxy/sherry-lxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
