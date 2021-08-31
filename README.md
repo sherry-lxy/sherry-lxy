@@ -4,8 +4,6 @@
 📷 I’m interested in camera
 
 ## ⭐️ Status
-[![trophy](https://github-profile-trophy.vercel.app/?username=sherry-lxy)](https://github.com/sherry-lxy/github-profile-trophy)
-
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherry-lxy&theme=monokai" width="700px">
 </div>
